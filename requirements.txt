@@ -1,0 +1,12 @@
+tweepy==4.16.0
+pandas
+tqdm
+regex
+emoji
+transformers
+sentencepiece
+torch
+scikit-learn
+gensim
+pyldavis
+matplotlib
